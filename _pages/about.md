@@ -123,21 +123,15 @@ author: "Theodoros Athanasiadis"
     <div class="about-section">
         <p>
         Hello World! I'm Theodoros, an AI Software Engineer and Researcher based in Berlin.
-        I have an unusual background, combining electrical engineering and computer science. 
         </p>
         
         <p>
-        I began my career as an Electrical and Computer Engineer, after graduating from Aristotle University of Thessaloniki. I then spent more than three years working as a software engineer and application consultant focusing on supply chain optimization software solutions.
+        I hold two MSc degrees; my first one in Electrical and Computer Engineering specializing in Electrical Energy Systems from Aristotle University of Thessaloniki, and my second one in Computer Science specializing on Machine Learning & Artificial Intelligence from the University of Freiburg in Germany.
         </p>
 
         <p>
-        In 2020, I transitioned into the field of Artificial Intelligence, and decided to delve deeper into it. I pursued a master's degree in Computer Science with a focus on Machine Learning at the University of Freiburg, while also working as a research assistant in the field. 
+        Of course I'm interested in efficient hyperparameter optimization, automated machine learning (AutoML), LLMs, agentic AI, and all that buzz. But nothing beats debugging step-by-step to understand why models behave the way they do. In my free time, I might read a paper and decide to blog about it, tinker with some code I found online, or obsess over coffee and movies.
         </p>
-
-        <p>
-        My current research interests include efficient hyperparameter optimization, transfer learning, and the intersection of deep learning and practical applications in real-world domains.
-        </p>
-      
     </div>
 
 </div>
