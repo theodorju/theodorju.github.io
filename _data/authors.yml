@@ -1,0 +1,26 @@
+# Authors
+
+Theodoros Athanasiadis:
+  name        : "Theodoros Athanasiadis"
+  bio         : "I like cats and AI."
+  avatar      : "/assets/images/me_in_england.png"
+  location    : "Berlin, Germany"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/theodorju"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-square-linkedin"
+      url: "https://www.linkedin.com/in/theodoros-athanasiadis/"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/theodorju.bsky.social"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:theodorathanasiadis@gmail.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://thewhip.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/extravagantman"
