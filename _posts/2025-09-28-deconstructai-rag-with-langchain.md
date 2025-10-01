@@ -25,17 +25,6 @@ figcaption {
   margin: 0 auto;
   display: block;
 }
-
-/* .sidebar__right { */
-  /* position: sticky; */
-  /* top: 2rem;
-  align-self: flex-start; */
-/* } */
-
-/* .sidebar__right .toc {
-  max-height: 80vh;
-  overflow-y: auto;
-} */
 </style>
 
 
@@ -676,7 +665,7 @@ Once we hit enter, the most important and interesting part happens, which is the
 
 # Fin
 Throughout the article, I only imported the necessary libraries when they were needed. If you are coding along, make sure to import everything cleanly at the top. 
-<!-- You can also find the code in this repo. -->
+You can also find the code in this [repo](https://github.com/theodorju/rag_pdf_chatbot).
 That's all from me for this article. I hope you enjoyed it. Till next time…
 
 ---
