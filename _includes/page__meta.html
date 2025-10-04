@@ -26,6 +26,10 @@
           {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
         {% endif %}
       </span>
+
+      <span class="page__meta-date">
+        - {{ post.date | date: "%B %d, %Y" }}
+      </span>
     {% endif %}
   </p>
 {% endif %}
