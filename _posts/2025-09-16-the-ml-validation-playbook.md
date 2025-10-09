@@ -1,6 +1,6 @@
 ---
 title: "The ML Validation Playbook: A Primer of Common Validation Techniques"
-date: 2025-09-30
+date: 2025-09-16
 categories: [ML]
 tags: [machine-learning, validation, resampling, cross-validation, hyperparameter-tuning]
 author: "Theodoros Athanasiadis"
