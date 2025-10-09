@@ -7,7 +7,7 @@ author: "Theodoros Athanasiadis"
 comments: true
 share: true
 read_time: true
-excerpt: "A practical walkthrough of RAG with LangChain: learn how to split PDFs, build embeddings and a FAISS vector store, wire a retriever into a prompt, and serve a Streamlit PDF Q&A app."
+excerpt: "A practical walkthrough of RAG with LangChain: build a vector database, wire a retriever into a prompt, and serve a Streamlit PDF Q&A app."
 # tags:
 #   - table of contents
 toc: true
