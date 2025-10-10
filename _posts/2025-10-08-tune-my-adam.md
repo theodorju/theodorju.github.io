@@ -1,8 +1,8 @@
 ---
 title: "Tune My Adam, Please!"
 date: 2025-10-08
-categories: [AI]
-tags: [machine-learning, HPO, transformers, PFN, Python]
+categories: [Machine Learning, HPO]
+tags: [machine-learning, hpo, transformers, PFN, AutoML, Adam]
 author: "Theodoros Athanasiadis"
 comments: true
 share: true
@@ -146,7 +146,7 @@ We believe our work highlights the importance of specialization and the use of p
 Finally, especially based on our results on out-of-distribution tasks, it might be worth exploring how our prior could be mixed with the one used in `ifBO`. 
 
 
-# Fin
+# Conlusion
 That's all I wanted to share in this short blog post. I hope you enjoyed it! 
 
 Be sure to check out the <a href="https://arxiv.org/abs/2508.19733" target="_blank" rel="noopener noreferrer">full paper</a> for a more detailed discussion of the results, the surrogate model architectures, the tasks we used during training, limitations and future work directions, as well as a detailed description of baselines and related work.

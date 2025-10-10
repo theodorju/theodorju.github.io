@@ -1,8 +1,8 @@
 ---
 title: "Is there such thing as too much HPO?"
 date: 2025-10-04
-categories: [ML]
-tags: [machine-learning, HPO, AutoML, hyperparameter-optimization]
+categories: [Machine Learning, HPO]
+tags: [machine-learning, hpo, AutoML]
 author: "Theodoros Athanasiadis"
 comments: true
 share: true
@@ -127,7 +127,7 @@ Note that these effects were observed in the analyzed benchmarks and may vary ac
 # What can we do about it?
 Although this was not the paper's main focus, the authors mention several ways to reduce overtuning: using a more robust resampling strategy, adding regularization, or using early stopping. They also discuss more advanced techniques such as reshuffling validation splits, ways of choosing incumbents more conservatively, or using Bayesian optimization to smooth noisy validation scores. Not all of these are practical in every setting, but together they show that overtuning can be mitigated.
 
-# Fin
+# Conlusion
 That's all I wanted to share in this blog post. I found the work exciting, and I believe it opens up new discussion points both in the fields of hyperparameter optimization and automated machine learning. I hope you enjoyed it. 
 
 For more details and an in-depth analysis, I strongly suggest reading the original paper [here](https://openreview.net/forum?id=ODD5YfFyfg). All the code used by the authors to perform the analyses mentioned in the paper has been released [here](https://github.com/slds-lmu/paper_2025_overtuning).

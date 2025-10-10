@@ -1,8 +1,8 @@
 ---
 title: "Code Walkthrough - RAG with LangChain"
 date: 2025-09-28
-categories: [AI]
-tags: [machine-learning, RAG, LangChain, LLM, OpenAI, Streamlit, Python]
+categories: [Machine Learning, RAG]
+tags: [machine-learning, RAG, LangChain, LLM, OpenAI, streamlit, python]
 author: "Theodoros Athanasiadis"
 comments: true
 share: true
@@ -663,7 +663,7 @@ Once we hit enter, the most important and interesting part happens, which is the
   <!-- <figcaption>Draft of the application's landing page.</figcaption> -->
 </figure>
 
-# Fin
+# Conlusion
 Throughout the article, I only imported the necessary libraries when they were needed. If you are coding along, make sure to import everything cleanly at the top. 
 You can also find the code in this [repo](https://github.com/theodorju/rag_pdf_chatbot).
 That's all from me for this article. I hope you enjoyed it. Till next time…
