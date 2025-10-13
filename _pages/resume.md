@@ -256,26 +256,26 @@ author: "Theodoros Athanasiadis"
   <div class="job-entry">
     <h3>AI Research Assistant</h3>
     <div class="job-meta">
-      <strong>Machine Learning Lab, University of Freiburg</strong>
+      <strong><a href="https://ml.informatik.uni-freiburg.de/" target="_blank" rel="noopener noreferrer">Machine Learning Lab, University of Freiburg</a></strong>
       <span>Freiburg im Breisgau, DE</span>
       <span>05/2022 – 06/2025</span>
     </div>
     <ul class="resume-list">
       <li>Advanced the lab’s machine learning frameworks by developing and integrating novel features.</li>
-      <li>Mentored over 150 Master's students in the <em>Foundations of Deep Learning</em> course.</li>
-      <li>Orchestrated the launch of the course as a MOOC, expanding accessibility and impact.</li>
+      <li>Mentored over 100 MSc students in the <em>Foundations of Deep Learning</em> course.</li>
+      <li>Orchestrated the launch of the <a href="https://ki-campus.org/en/learning-opportunities/courses/foundations-deep-learning-i-basics" target="_blank" rel="noopener noreferrer">course as a MOOC</a>, expanding accessibility and impact.</li>
     </ul>
   </div>
 
   <div class="job-entry">
     <h3>AI Research Assistant</h3>
     <div class="job-meta">
-      <strong>Fraunhofer IPK</strong>
+      <strong><a href="https://www.ipk.fraunhofer.de/" target="_blank" rel="noopener noreferrer">Fraunhofer IPK</a></strong>
       <span>Berlin, DE</span>
       <span>04/2023 – 01/2024</span>
     </div>
     <ul class="resume-list">
-      <li>AI Software Engineer at the ExoGuide industrial project in collaboration with Exeron GmbH.</li>
+      <li>AI Engineer at the ExoGuide industrial project in collaboration with Exeron GmbH.</li>
       <li>Managed ML-pipelines and conducted extensive experimentation and research.</li>
       <li>Developed and deployed an AI-driven system for real-time control of Electrical Discharge Machining (EDM), reducing part rejection and improving process efficiency.</li>
     </ul>
@@ -284,21 +284,21 @@ author: "Theodoros Athanasiadis"
   <div class="job-entry">
     <h3>Application & Software Engineer</h3>
     <div class="job-meta">
-      <strong>Dataviva</strong>
+      <strong><a href="https://www.dataviva.com/" target="_blank" rel="noopener noreferrer">Dataviva</a></strong>
       <span>Thessaloniki, GR</span>
       <span>03/2020 – 08/2021</span>
     </div>
     <ul class="resume-list">
-        <li>Played a key role in the company’s early-stage development.</li>
+        <li>Contributed to the company’s early-stage development.</li>
         <li>Developed and deployed scalable client-tailored optimization tools that improved efficiency and supported large-scale retail operations.</li>
-        <li>Mentored intern teams as a technical lead, fostering best practices in software development and problem-solving.</li>
+        <li>Mentored intern teams as a technical lead.</li>
     </ul>
   </div>
 
   <div class="job-entry">
     <h3>Application & Software Engineer</h3>
     <div class="job-meta">
-      <strong>Veltio</strong>
+      <strong><a href="https://veltio.com/" target="_blank" rel="noopener noreferrer">Veltio</a></strong>
       <span>Thessaloniki, GR</span>
       <span>03/2018 – 03/2020</span>
     </div>
@@ -315,26 +315,26 @@ author: "Theodoros Athanasiadis"
   <div class="job-entry">
     <h3>MSc in Computer Science</h3>
     <div class="job-meta">
-      <strong>University of Freiburg, Freiburg im Breisgau, DE</strong>
+      <strong><a href="https://www.tf.uni-freiburg.de/en/study-programs/computer-science/m-sc-computer-science" target="_blank" rel="noopener noreferrer">University of Freiburg, Freiburg im Breisgau, DE</a></strong>
       <span>Specialization: Artificial Intelligence</span>
       <span>Graduated: 06/2025</span>
     </div>
     <ul class="resume-list">
       <li>Grade: <strong>1.2</strong> <span style="font-size:0.7em;">(German scale: 1.0 = best, 4.0 = min. pass, >4.0 = fail)</span></li>
-      <li>Thesis: <em><a href="https://arxiv.org/abs/2508.19733" target="_blank" rel="noopener noreferrer">Tune my Adam, Please!</a></em> — Specialized transformer for Bayesian Optimization of Adam optimizer hyperparameters. <br>(published as a non-archival short paper in AutoML 2025 Conference)</li>
+      <li>Thesis: <em><a href="https://arxiv.org/abs/2508.19733" target="_blank" rel="noopener noreferrer">Tune my Adam, Please!</a></em> — Specialized transformer for Bayesian Optimization of Adam optimizer hyperparameters. <br>(accepted as a non-archival short paper in <a href="https://2025.automl.cc/non-archival-content/" target="_blank" rel="noopener noreferrer">AutoML 2025 Conference</a>)</li>
     </ul>
   </div>
 
   <div class="job-entry">
-    <h3>Diploma in Electrical & Computer Engineering (Integrated BSc + MSc)</h3>
+    <h3>Diploma in Electrical & Computer Engineering (Integrated BEng + MEng)</h3>
     <div class="job-meta">
-      <strong>Aristotle University of Thessaloniki, Thessaloniki, GR</strong>
+      <strong><a href="https://www.auth.gr/en/school/ee-en/" target="_blank" rel="noopener noreferrer">Aristotle University of Thessaloniki, Thessaloniki, GR</a></strong>
       <span>Specialization: Electrical Energy Systems</span>
       <span>Graduated: 11/2017</span>
     </div>
     <ul class="resume-list">
       <li>Grade: <strong>7.74 out of 10</strong></li>
-      <li>Thesis: <a href="https://github.com/theodorju/ewire" target="_blank" rel="noopener"><em>Ewire — one step closer to Greece's Electrical Grid</em></a>. 
+      <li>Thesis: <a href="https://github.com/theodorju/ewire" target="_blank" rel="noopener noreferrer"><em>Ewire — one step closer to Greece's Electrical Grid</em></a>. 
       </li>
     </ul>
   </div>
@@ -382,5 +382,5 @@ author: "Theodoros Athanasiadis"
 </div>
 
 <p style="margin-top: 2rem; color: #666; font-size: 0.9rem;">
-  <em>Updated: September 2025</em>
+  <em>Updated: October, 2025</em>
 </p>
