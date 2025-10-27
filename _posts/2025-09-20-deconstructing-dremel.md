@@ -86,7 +86,7 @@ records (which is common in aggregation queries run by data analysts), one would
 have to load the entire record into memory before accessing that field. Figure 1 below provides an example.
 
 <figure style="text-align:center;">
-  <img src="/assets/images/dremel/row_oriented_storage.png" alt="Illustration of Store Oriented Storage" width="400">
+  <img src="/assets/images/dremel/row_oriented_storage.png" alt="Illustration of Store Oriented Storage" style="width: 60%; display: block; margin: 0 auto 6px auto;">
   <figcaption>
     Figure 1: Row-oriented storage. Even if we only care about the country information (yellow boxes), we’d still have to load the full records to memory to be able to read that information. Based on [<a href="#ref1">1</a>].
   </figcaption>
@@ -97,7 +97,7 @@ of one field across records, we can load only those values into memory, effectiv
 disregarding any useless information present on the other fields. Figure 2 shows an example of records R1 and R2 in column-oriented storage.
 
 <figure style="text-align:center;">
-  <img src="/assets/images/dremel/column_oriented_storage.png" alt="Illustration of Column Oriented Storage" width="400">
+  <img src="/assets/images/dremel/column_oriented_storage.png" alt="Illustration of Column Oriented Storage" style="width: 60%; display: block; margin: 0 auto 6px auto;">
   <figcaption>
     Figure 2: Column-oriented storage. Since all the values for a specific field are stored together, we can now only read the information we need without scanning irrelevant fields. In our example, we can only read the Country information (yellow boxes) without ever touching the rest of the fields. Based on [<a href="#ref1">1</a>].
   </figcaption>
@@ -120,7 +120,7 @@ Figure 3 below shows an example schema of a nested record representation of our 
 running example.
 
 <figure style="text-align:center;">
-  <img src="/assets/images/dremel/nested_schema_example.png" alt="An example of a nested schema representation." width="400">
+  <img src="/assets/images/dremel/nested_schema_example.png" alt="An example of a nested schema representation." style="width: 60%; display: block; margin: 0 auto 6px auto;">
   <figcaption>
     Figure 3: Example of a nested schema representing a Product Page from our running example.
   </figcaption>
@@ -314,7 +314,7 @@ the `ProductId` and `Location.Language.Code` fields. Then our automaton (FSM) wo
 look something like the one in Figure 4 below.
 
 <figure style="text-align:center;">
-  <img src="/assets/images/dremel/fsm_automaton.png" alt="An example of an FSM for reconstruction of ProductId and Code fields." width="400">
+  <img src="/assets/images/dremel/fsm_automaton.png" alt="An example of an FSM for reconstruction of ProductId and Code fields." style="width: 60%; display: block; margin: 0 auto 6px auto;">
   <figcaption>
     Figure 4: Finite State Machine that reconstructs records containing the <code>ProductId</code> and <code>Location.Language.Code</code> fields. Based on [<a href="#ref1">1</a>].
   </figcaption>
@@ -426,7 +426,7 @@ One of the most interesting aspects, in my opinion, is the query execution
 mechanism of Dremel, which takes the form of a **multi-level execution tree** (Figure 5).
 
 <figure style="text-align:center;">
-  <img src="/assets/images/dremel/serving_tree.png" alt="An illustration of a Multi-level query execution serving tree." width="400">
+  <img src="/assets/images/dremel/serving_tree.png" alt="An illustration of a Multi-level query execution serving tree." style="width: 60%; display: block; margin: 0 auto 6px auto;">
   <figcaption>
     Figure 5: Multi-level query execution serving tree. Based on [<a href="#ref1">1</a>].
   </figcaption>
