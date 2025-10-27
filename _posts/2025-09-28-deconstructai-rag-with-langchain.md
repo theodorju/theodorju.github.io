@@ -663,7 +663,7 @@ Once we hit enter, the most important and interesting part happens, which is the
   <!-- <figcaption>Draft of the application's landing page.</figcaption> -->
 </figure>
 
-# Conlusion
+# Conclusion
 Throughout the article, I only imported the necessary libraries when they were needed. If you are coding along, make sure to import everything cleanly at the top. 
 You can also find the code in this [repo](https://github.com/theodorju/rag_pdf_chatbot).
 That's all from me for this article. I hope you enjoyed it. Till next time…

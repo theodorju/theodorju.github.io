@@ -460,7 +460,7 @@ The leaf nodes would be the ones that calculate the result and backward propagat
 to the intermediate servers. The intermediate servers then aggregate and backward
 propagate the results upward, until we reach the root server. Finally, the root server communicates the final result back to the data analyst.
 
-# Conlusion
+# Conclusion
 That concludes the behind-the-scenes workings of Dremel that I wanted to share in this post. Be sure to check the <a href="https://research.google/pubs/dremel-interactive-analysis-of-web-scale-datasets-2/" target="_blank" rel="noopener noreferrer">official paper</a>[<a href="#ref1">1</a>] for a detailed discussion of the experiments
 conducted by the authors, and a discussion of the following:
 - How column-oriented storage compares to row-oriented storage when it comes
